@@ -1,22 +1,35 @@
-import { useState } from "react";
 
-const Counterapp = () => {
-const [count, setCount] = useState(10);
-     function inc(){
-        setcount(count+1)
-     }
+import { useState } from 'react';
 
-     function dec(){
-       setcount(count-1)
-     }
+const CounterApp = () => {
+  const [count, setCount] = useState(10);
+
+  function inc() {
+    setCount(count + 1);
+  }
+
+  function dec() {
+    setCount(count - 1);
+  }
+
   return (
-    <div style={{border:'2px solid red',height:'300px',width:'300px'}}>
-      <h3>Counter</h3>
-      <button onClick={inc}>ADD+</button><br />
+    <div style={{
+      border: '2px solid red',
+      height: '300px',
+      width: '300px',
+      margin: 'auto'
+    }}>
+      <h3>Counter - V2</h3>
+
+      <button onClick={inc}>ADD+</button>
+      <br />
+
       <span>{count}</span>
       <br />
+
       <button onClick={dec}>SUB-</button>
     </div>
   );
-}
-export default Counterapp
+};
+
+export default CounterApp;

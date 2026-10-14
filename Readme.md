@@ -1,6 +1,5 @@
 # React Counter App
-
-Hi! I'm a 3rd-year CSE student, and I made this project while learning React. I wanted to understand how state works in React, so I started with a simple counter and improved it step by step.
+ I made this project while learning React. I wanted to understand how state works in React, so I started with a simple counter and improved it step by step.
 
 This project has three versions of the same counter app. Each version adds a small change that helped me understand React a little better.
 
@@ -12,7 +11,7 @@ The counter starts from `0`. Users can increase or decrease the value using the 
 
 **Screenshot:**
 
-![V1 Basic Counter](C:\Users\priya\OneDrive\Desktop\Counter-App\v1.png)
+![V1 Basic Counter](v1.png)
 
 ### V2 — Counter with Default Value
 
@@ -22,7 +21,7 @@ In this version, I changed the initial counter value from `0` to `10`. The incre
 
 <!-- Paste your V2 screenshot link below -->
 
-![V2 Counter Starting at 10](v1.png)
+![V2 Counter Starting at 10](v2.png)
 
 ### V3 — User Input Counter
 
@@ -32,7 +31,7 @@ In the third version, the user can enter their own starting value. After clickin
 
 <!-- Paste your V3 screenshot link below -->
 
-![V3 Counter with User Input](v2.png)
+![V3 Counter with User Input](v3.png)
 
 ## 📁 Project Structure
 
@@ -99,6 +98,4 @@ Vite will provide a local URL where you can open the app in your browser.
 
 ## 💡 Final Note
 
-This is a small project, but building it in three stages helped me understand the basics instead of just copying a single implementation. I plan to keep practising React and add more features as I learn.
-
-Thanks for checking out my project!
+This is a small project, but building it in three stages helped me understand the basics instead of just copying a single implementation.

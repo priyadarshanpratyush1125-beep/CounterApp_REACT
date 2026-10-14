@@ -12,9 +12,7 @@ The counter starts from `0`. Users can increase or decrease the value using the 
 
 **Screenshot:**
 
-<!-- Paste your V1 screenshot link below -->
-
-![V1 Basic Counter](PASTE_V1_IMAGE_URL_HERE)
+![V1 Basic Counter](C:\Users\priya\OneDrive\Desktop\Counter-App\v1.png)
 
 ### V2 — Counter with Default Value
 
@@ -24,7 +22,7 @@ In this version, I changed the initial counter value from `0` to `10`. The incre
 
 <!-- Paste your V2 screenshot link below -->
 
-![V2 Counter Starting at 10](PASTE_V2_IMAGE_URL_HERE)
+![V2 Counter Starting at 10](v1.png)
 
 ### V3 — User Input Counter
 
@@ -34,7 +32,7 @@ In the third version, the user can enter their own starting value. After clickin
 
 <!-- Paste your V3 screenshot link below -->
 
-![V3 Counter with User Input](PASTE_V3_IMAGE_URL_HERE)
+![V3 Counter with User Input](v2.png)
 
 ## 📁 Project Structure
 
